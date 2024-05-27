@@ -1,5 +1,5 @@
 {
-  "name": "next-flask",
+  "name": "2t2c",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -26,6 +26,6 @@
     "typescript": "5.0.4"
   },
   "engines": {
-    "node": "18.x"
+    "node": "21.x"
   }
 }
